@@ -1,19 +1,19 @@
 # Lesson <br />
 ### Step 1 <br />
-[!NOTE]\
+ > [!NOTE]\
  > Do the findfirstchild section first
  > If you don't understand FindFirstChildWhichIsA you can skip it for now, we won't be using it anytime soon
 
  > Make a string that changes your Heads color using FindFirstChild
 
 ### Step 2 <br />
-[!NOTE]\
+ > [!NOTE]\
  > Move onto the Keybinds section
 
  > Make a toggle on and off switch for anything
 
 ### Step 3 <br />
-[!NOTE]\
+ > [!NOTE]\
  > learn about the tostring and tonumber functions
 
  > If you understand the functions go back to your toggle switch using and keybind and make a function saying when the Boolean is on and off
